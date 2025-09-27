@@ -1,0 +1,5 @@
+<resources>
+    <string name="bottom_sheet_opened">Bottom sheet expanded</string>
+    <string name="bottom_sheet_closed">Bottom sheet closed</string>
+    <string name="bottom_sheet_accessibility_label">Bottom sheet</string>
+</resources>
